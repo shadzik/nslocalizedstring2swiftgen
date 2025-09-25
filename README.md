@@ -4,7 +4,7 @@ This script replaces occurrences of NSLocalizedString("", "") in your swift code
 
 ### Prerequisites
 
-• you've already generated your L10n struct with swiftgen
+• you've already generated your L10n enum file with swiftgen
 
 ### Usage
 
